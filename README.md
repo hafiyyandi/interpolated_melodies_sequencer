@@ -1,6 +1,7 @@
-# interpolated_melodies_sequencer
+# Interpolated Melodies Sequencer
 
 ![alt text](https://static.wixstatic.com/media/a544de_4798e6cf9929408796735cde3c964c32~mv2.png/v1/fill/w_630,h_229,al_c,usm_0.66_1.00_0.01/a544de_4798e6cf9929408796735cde3c964c32~mv2.png)
+
 See [live app](https://www.hafiyyandi.com/interpolated-melodies)
 Inspired by Brian Eno’s Music for Airports & Teropa’s [Latent Cycles](https://codepen.io/teropa/full/rdoPbG/)
 Code was adapted from Torin Blankensmith’s [Melody Mixer](https://github.com/googlecreativelab/melody-mixer/tree/master/demo_3)
